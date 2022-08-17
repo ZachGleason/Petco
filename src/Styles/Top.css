@@ -1,0 +1,32 @@
+.top {
+    width: 100vw;
+    height: 50px;
+    background-color: rgb(91, 239, 172);
+    display: flex;
+    justify-content: center;
+}
+
+.top_text {
+    color: rgb(0, 2, 111);
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    padding-left: 7px;
+}
+
+.top_text_two {
+    color: rgb(0, 2, 111);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 1px;
+    padding-top: 17px;
+    padding-left: 10px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.top_image {
+    object-fit: contain;
+    width: 38px;
+}
+

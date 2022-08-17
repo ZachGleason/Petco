@@ -1,0 +1,51 @@
+.bottom {
+    width: 100vw;
+    height: 50px;
+    box-shadow: 0 3px 7px -0px rgb(208, 208, 208);
+    display: flex;
+}
+
+.bottom_pin {
+    color: rgb(224, 72, 72);
+    font-size: 30px;
+    padding-left: 45px;
+}
+
+.bottom_div {
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+.bottom_text_one {
+    padding-left: 5px;
+}
+
+
+.bottom_text_two {
+    padding-left: 8px;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.bottom_truck {
+    color: rgb(224, 72, 72);
+    font-size: 30px;
+    padding-left: 45px;
+}
+
+.bottom_div_two {
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+.bottom_text_three {
+    padding-left: 8px;
+}
+
+.bottom_text_four {
+    padding-left: 8px;
+    text-decoration: underline;
+    font-weight: 600;
+}

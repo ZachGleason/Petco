@@ -1,0 +1,80 @@
+.header {
+    width: 100vw;
+    height: 90px;
+    background-color: rgb(0, 2, 111);;
+    display: flex;
+}
+
+.header_logo {
+    object-fit: contain;
+    padding-left: 50px;
+    width: 7vw;
+}
+
+.header_input {
+    width: 55vw;
+    height: 50px;
+    font-size: 18px;
+    text-indent: 10px;
+    text-decoration: none;
+}
+
+.header_center {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+
+.header_icon {
+    padding-top: 15px;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_profile {
+    font-size: 40px;
+    color: white;
+}
+
+.header_dropdown {
+    color: white;
+    font-size: 27px;
+    padding-right: 5px;
+}
+
+.header_icon_two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_cart {
+    color: white;
+    font-size: 35px;
+    margin-left: 20px;
+}
+
+.header_line {
+    margin-top: 20px;
+    height: 55px;
+}
+
+.header_icons {
+    display: flex;
+    padding-right: 50px;
+    cursor: pointer;
+}
+
+.header_texts {
+    display: inline-block;
+}
+
+.header_texts > p {
+    color: white;
+    display: inline-block;
+    margin-left: -10px;
+    font-weight: 500;
+}
