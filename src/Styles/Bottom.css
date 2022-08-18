@@ -12,7 +12,6 @@
 }
 
 .bottom_div {
-    height: 5vh;
     display: flex;
     align-items: center;
 }
@@ -35,7 +34,6 @@
 }
 
 .bottom_div_two {
-    height: 5vh;
     display: flex;
     align-items: center;
 }
