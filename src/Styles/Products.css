@@ -1,0 +1,39 @@
+.products_text {
+    text-align: center;
+    font-weight: 300;
+    padding-top: 25px;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+}
+
+.product_one_div {
+    padding-left: 180px;
+}
+
+.product_one_text > p {
+    font-weight: 300;
+}
+
+.product_one_text > h6 {
+    font-size: 13px;
+    padding-top: 10px;
+}
+
+.product_one_text > h5 {
+    font-size: 15px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: rgb(0, 2, 111);
+}
+
+.product_one_text > h5:hover {
+    color: black;
+}
+
+.product_one {
+    margin-left: 10px;
+}
+
+.product_items {
+    display: flex;
+}
