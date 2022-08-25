@@ -6,7 +6,7 @@ import { BsTruck } from 'react-icons/bs';
 
 const Bottom = () => {
   return (
-    <div className='bottom'>
+    <div className='bottom' >
         <div className='bottom_div'>
             <FiMapPin className='bottom_pin'/>
             <p className='bottom_text_one'>Your Store:</p>
