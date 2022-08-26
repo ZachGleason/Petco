@@ -38,7 +38,7 @@ export const Products = () => {
                     <p>Okocat Low</p>
                     <p>Tracking Litter</p>
                     <h6>$14.99</h6>
-                    <h5>Add to cart</h5>
+                    <h5>Add to Cart</h5>
                 </div>
             </div>
 
