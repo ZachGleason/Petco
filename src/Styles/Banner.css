@@ -1,5 +1,4 @@
 .banner {
-<<<<<<< HEAD
     width: 80vw;
     height: 250px;
     background-color: rgb(0, 2, 111);
@@ -41,14 +40,11 @@
     border-radius: 5px;
     margin-top: 25px;
     cursor: pointer;
-=======
->>>>>>> cb2474065dbbfd850636c91e9ea137ef3ce5760e
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-<<<<<<< HEAD
 .banner_button > p {
     font-weight: 700;
     color: rgb(0, 2, 111);
@@ -58,12 +54,13 @@
     width: 100vw;
     height: 250px;
     padding-left: 100px;
-=======
-.banner_left {
+}
+
+/* .banner_left {
     width: 25vw;
     height: 190px;
     background-color: rgb(106, 195, 255);
-}
+} */
 
 .banner_right {
     width: 50vw;
@@ -79,5 +76,4 @@
     justify-content: center;
     display: flex;
     padding-top: 20px;
->>>>>>> cb2474065dbbfd850636c91e9ea137ef3ce5760e
 }

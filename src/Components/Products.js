@@ -42,6 +42,38 @@ export const Products = () => {
                 </div>
             </div>
 
+            <div className='product_one_div'>
+                <div>
+                    <img 
+                    src={one}
+                    alt="product"
+                    className='product_one'
+                    />
+                </div>
+                <div className='product_one_text'>
+                    <p>Cat Kettle</p>
+                    <p>Snack Food</p>
+                    <h6>$10.99</h6>
+                    <h5>Add to Cart</h5>
+                </div>
+            </div>
+
+            <div className='product_one_div'>
+                <div>
+                    <img 
+                    src={two}
+                    alt="product"
+                    className='product_one'
+                    />
+                </div>
+                <div className='product_one_text'>
+                    <p>Cat Kettle</p>
+                    <p>Snack Food</p>
+                    <h6>$10.99</h6>
+                    <h5>Add to Cart</h5>
+                </div>
+            </div>
+
         </div>
     </div>
   )
