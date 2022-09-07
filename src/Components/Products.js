@@ -67,8 +67,8 @@ export const Products = () => {
                     />
                 </div>
                 <div className='product_one_text'>
-                    <p>Cat Kettle</p>
-                    <p>Snack Food</p>
+                    <p>Dog Treat</p>
+                    <p>Snack Goods</p>
                     <h6>$10.99</h6>
                     <h5>Add to Cart</h5>
                 </div>
